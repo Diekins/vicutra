@@ -7,7 +7,7 @@
 **Seu canal merece uma central de produção.**
 Do assunto ao vídeo pronto — roteiro, imagens, narração, legenda e publicação — com a IA rodando na **sua própria placa de vídeo**.
 
-[Site oficial](https://clippilot.onkz.com.br) · Suporte: contato@onkz.com.br
+**[🌐 vicutra.com.br](https://vicutra.com.br)**
 
 ![Status](https://img.shields.io/badge/status-lan%C3%A7amento%20comercial-orange)
 ![Plataforma](https://img.shields.io/badge/plataforma-Windows-0078D6)
@@ -150,4 +150,4 @@ Na prática, isso exigiu as habilidades que mais uso em suporte e qualidade: **r
 
 O código-fonte do Vicutra é **proprietário**. Este repositório contém apenas material de apresentação (texto e identidade visual) e não concede nenhuma licença de uso do software.
 
-**Site oficial:** https://clippilot.onkz.com.br
+**Site oficial:** https://vicutra.com.br
